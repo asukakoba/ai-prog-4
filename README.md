@@ -1,8 +1,15 @@
 <h1>AIプログラミング</h1>
 
+## About
+This repository is for ・・・
+
 # AIプログラミング
 
-## セットアップ
+## Setup
+
+## Run
+### Streamlit
+aaaaa
 
 ```
 $ conda
