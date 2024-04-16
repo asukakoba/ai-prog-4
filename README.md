@@ -6,7 +6,9 @@ This repository is for ・・・
 # AIプログラミング
 
 ## Setup
-
+'''
+pip install -r requirements.txt
+'''
 ## Run
 ### Streamlit
 aaaaa
